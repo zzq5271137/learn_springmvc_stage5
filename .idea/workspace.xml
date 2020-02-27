@@ -6,7 +6,12 @@
     </artifacts-to-build>
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="12c750a9-93c6-46c1-a372-ea61349f94e0" name="Default Changelist" comment="" />
+    <list default="true" id="12c750a9-93c6-46c1-a372-ea61349f94e0" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/课件/springMVC.pptx" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/springMVC.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/springMVC2.xmind" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/课件/springMVC3.xmind" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -22,6 +27,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="LogFilters">
     <option name="FILTER_ERRORS" value="false" />
@@ -293,11 +301,6 @@
                 <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
                 <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
               </path>
-              <path>
-                <item name="services root" type="e789fda9:ObjectUtils$Sentinel" />
-                <item name="Tomcat Server" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-                <item name="Finished" type="7427dc5b:ServiceModel$ServiceGroupNode" />
-              </path>
             </expand>
             <select />
           </treeState>
@@ -318,6 +321,9 @@
       <workItem from="1581947480565" duration="381000" />
       <workItem from="1581991393806" duration="9256000" />
       <workItem from="1582028751604" duration="5240000" />
+      <workItem from="1582814639062" duration="1000" />
+      <workItem from="1582814687520" duration="1000" />
+      <workItem from="1582814730375" duration="1000" />
     </task>
     <servers />
   </component>
